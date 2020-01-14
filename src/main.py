@@ -2,7 +2,7 @@ import pyglet
 
 window = pyglet.window.Window(caption = '血牙')
 
-pic = pyglet.image.load('./assets/fire.gif')
+pic = pyglet.image.load('./assets/tooth.svg')
 
 window.set_icon(pic)
 
